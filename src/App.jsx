@@ -17,8 +17,8 @@ function App() {
         <ButtonComponent TextButton="Clicca qui" />
 
         <ImageComponent
-          src="https://images.unsplash.com/photo-1679847727418-33ef58d86ebe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
-          alt="Descrizione dell'immagine"
+          Image="https://images.unsplash.com/photo-1679847727418-33ef58d86ebe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+          Description="Descrizione dell'immagine"
         />
       </header>
     </div>
