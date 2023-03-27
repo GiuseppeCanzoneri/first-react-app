@@ -14,7 +14,7 @@ function App() {
         <a className="App-link" href="https://reactjs.org" target="_blank" rel="noopener noreferrer">
           Learn React
         </a>
-        <ButtonComponent TextButton="Clicca qui" />
+        <ButtonComponent TextButton="Clicca qui" color="red" />
 
         <ImageComponent
           Image="https://images.unsplash.com/photo-1679847727418-33ef58d86ebe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"

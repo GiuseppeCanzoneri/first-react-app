@@ -1,3 +1,3 @@
-const ButtonComponent = props => <button style={{ backgroundColor: "blueviolet" }}>{props.TextButton}</button>;
+const ButtonComponent = props => <button style={{ backgroundColor: props.color }}>{props.TextButton}</button>;
 
 export default ButtonComponent;
